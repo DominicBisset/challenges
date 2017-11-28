@@ -1,5 +1,7 @@
 # Last Card Standing
 
+**Difficulty: Medium**
+
 ## Background
 
 A normal deck of cards contains 52 cards. Each card has a value and a suit, and there is one card of each possible combination in the deck. The suits are called Clubs, Hearts, Spades and Diamonds and the values in each suit are (in ascending order): Ace, 2, 3, 4, 5, 6, 7, 8, 9, Ten, Jack, Queen and King. We will refer to the cards using the first letter of the value (or a digit) followed by the first letter of the suit. E.g. 4S for the "four of spades", TH for the "ten of hearts" and KD for the "king of diamonds".
